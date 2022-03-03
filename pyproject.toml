@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "exercises"
+version = "0.1.0"
+description = ""
+authors = ["Giulio Starace <giulio.starace@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+python-sat = {extras = ["pblib", "aiger"], version = "^0.1.7-alpha.16"}
+clingo = "^5.5.1"
+
+[tool.poetry.dev-dependencies]
+jupyterlab = "^3.2.9"
+jupyterlab-code-formatter = "^1.4.10"
+black = "^22.1.0"
+flake8 = "^4.0.1"
+ipykernel = "^6.9.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
