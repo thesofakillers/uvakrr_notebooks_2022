@@ -17,6 +17,27 @@ Please refer to this mapping for titles:
 }
 ```
 
+And to the following tree diagram:
+
+```stdout
+.
+├── README.md
+├── week2
+│   ├── ex2.ipynb
+│   └── sat.ipynb
+├── week3
+│   ├── asp.ipynb
+│   └── ex3-with-solutions.ipynb
+├── week4
+│   ├── asp-tricks.ipynb
+│   └── guide-to-asp.ipynb
+└── week5
+    ├── saturation.ipynb
+    └── unique-solution.ipynb
+
+4 directories, 9 files
+```
+
 Note: these are mainly re-uploads from canvas for my own convenience (e.g. being
 able to preview them without running Jupyter Lab). The notebooks will probably
 be for the most part incomplete.
