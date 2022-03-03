@@ -16,3 +16,9 @@ Please refer to this mapping for titles:
   "checking uniqueness of solutions in ASP": "week5/unique-solution.ipynb"
 }
 ```
+
+Note: these are mainly re-uploads from canvas for my own convenience (e.g. being
+able to preview them without running Jupyter Lab). The notebooks will probably
+be for the most part incomplete.
+
+Credits to the University of Amsterdam.
