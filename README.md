@@ -2,38 +2,23 @@
 
 Notebooks from UvA's KRR course, Q1 2022 edition.
 
-Please refer to this mapping for titles:
+Please refer to the following tree diagram:
 
-```JSON
-{
-  "using SAT in Python": "week2/sat.ipynb",
-  "Exercise 3 of Exercise Session 2": "week2/ex2.ipynb",
-  "using ASP in Python": "week3/asp.ipynb",
-  "Exercise 2 of Exercise Session 3 (with solutions)": "week3/ex3-with-solutions.ipynb",
-  "modelling tricks in ASP": "week4/asp-tricks.ipynb",
-  "guide to ASP": "week4/guide-to-asp.ipynb",
-  "explanation of saturation": "week5/saturation.ipynb",
-  "checking uniqueness of solutions in ASP": "week5/unique-solution.ipynb"
-}
-```
-
-And to the following tree diagram:
-
-```stdout
+```bash
 .
 ├── README.md
 ├── week2
-│   ├── ex2.ipynb
-│   └── sat.ipynb
+│   ├── ex2.ipynb # using SAT in Python
+│   └── sat.ipynb # Exercise 3 of Exercise Session 2
 ├── week3
-│   ├── asp.ipynb
-│   └── ex3-with-solutions.ipynb
+│   ├── asp.ipynb # using ASP in Python
+│   └── ex3-with-solutions.ipynb # Exercise 2 of Exercise Session 3 (with solutions)
 ├── week4
-│   ├── asp-tricks.ipynb
-│   └── guide-to-asp.ipynb
+│   ├── asp-tricks.ipynb # modelling tricks in ASP
+│   └── guide-to-asp.ipynb # guide to ASP
 └── week5
-    ├── saturation.ipynb
-    └── unique-solution.ipynb
+    ├── saturation.ipynb # explanation of saturation
+    └── unique-solution.ipynb # checking uniqueness of solutions in ASP
 
 4 directories, 9 files
 ```
